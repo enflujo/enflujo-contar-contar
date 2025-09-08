@@ -49,6 +49,6 @@ Primero vamos a hacer un conteo de palabras a partir de un texto sencillo. Tomen
 
 ### Herramienta de HD
 
-https://voyant-tools.org/
+**Herramienta**: https://voyant-tools.org/
 
 ### Extracción de datos web (web scrapping)
