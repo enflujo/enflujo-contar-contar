@@ -35,6 +35,8 @@ https://dddrawings.com/notations/
 
 https://enflujo.com/proyectos/
 
+https://1339.juancgonzalez.com/
+
 ## Taller
 
 Volviendo a la metáfora de contar para contar, vamos a hacer una serie de ejercicios cortos para ir reconociendo las posibilidades. Cada ejercicio nos va conduciendo a formas más avanzadas de contar.
@@ -106,6 +108,11 @@ Sirve para hacer líneas de tiempo interactivas.
 
 **Voyant Tools**: https://voyant-tools.org/
 Sirve para hacer análisis de textos.
+
+### Extraer datos de comentarios de YouTube
+
+**YouTube Data Tools**: https://ytdt.digitalmethods.net/mod_video_comments.php
+Permite extraer los comentarios de un video de YouTube y exportarlos a una hoja de cálculo.
 
 ### Gráficas
 
