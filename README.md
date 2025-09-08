@@ -1,6 +1,6 @@
 # Contar para contar
 
-En este taller vamos a poner en práctica uno de los procesos centrales de la humanidades digitales: el acto de contabilizar con el propósito de contar una historia. La palabra __contar__ tiene una afortunada polisemia en español que vamos a usar como metáfora central del taller ya que nos ayuda a entender una de las potencias de la humanidades digitales. Abstraer fenómenos complejos a escalas perceptibles que nos permiten estudiarlos y trabajarlos como humanistas.
+En este taller vamos a poner en práctica uno de los procesos centrales de la humanidades digitales: el acto de contabilizar con el propósito de contar una historia. La palabra **contar** tiene una afortunada polisemia en español que vamos a usar como metáfora central del taller ya que nos ayuda a entender una de las potencias de la humanidades digitales. Abstraer fenómenos complejos a escalas perceptibles que nos permiten estudiarlos y trabajarlos como humanistas.
 
 ## Contabilizar
 
@@ -29,3 +29,8 @@ Y en el mejor de los casos, al menos para nosotros lo humanistas, el acto de con
 
 > Coxcomb, 1858 - Florence Nightingale
 
+## Contar a partir del conteo
+
+https://dddrawings.com/notations/
+
+https://enflujo.com/proyectos/
