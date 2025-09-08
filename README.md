@@ -25,7 +25,7 @@ Pero también tiene la capacidad de contar historias por medio de su representac
 
 Y en el mejor de los casos, al menos para nosotros lo humanistas, el acto de contar puede ser expresivo y no sólo informativo.
 
-![Coscomb](./imgs/07%20-%20[1858]%20florence%20nightingale%20coxcomb.jpg)
+![Coxcomb](./imgs/07%20-%20[1858]%20florence%20nightingale%20coxcomb.jpg)
 
 > Coxcomb, 1858 - Florence Nightingale
 
@@ -34,3 +34,21 @@ Y en el mejor de los casos, al menos para nosotros lo humanistas, el acto de con
 https://dddrawings.com/notations/
 
 https://enflujo.com/proyectos/
+
+## Taller
+
+Volviendo a la metáfora de contar para contar, vamos a hacer una serie de ejercicios cortos para ir reconociendo las posibilidades. Cada ejercicio nos va conduciendo a formas avanzadas de contar.
+
+### Conteo de palabras
+
+Primero vamos a hacer un conteo de palabras a partir de un texto sencillo. Tomen un texto conozcan bien, puede ser un poema, un fragmento literario, un ensayo o artículo escrito por ustedes. La idea es que lo conozcan muy bien.
+
+**Herramientas**: https://wordart.com/, https://www.wordclouds.com/
+
+### Datos estructurados
+
+### Herramienta de HD
+
+https://voyant-tools.org/
+
+### Extracción de datos web (web scrapping)
